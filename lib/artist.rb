@@ -1,4 +1,4 @@
 class Artist
-  def name (name)
+  def name
   end
 end
