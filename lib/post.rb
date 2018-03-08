@@ -1,4 +1,6 @@
 class Post
-def title
-end
+ attr_accessor :title
+  def initialize 
+    @name = name
+  end
 end
