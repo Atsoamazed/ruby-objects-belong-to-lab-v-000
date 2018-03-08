@@ -1,4 +1,4 @@
 class Song
-def
+def title
 end
 end
